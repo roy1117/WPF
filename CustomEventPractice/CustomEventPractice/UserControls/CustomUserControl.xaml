@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="CustomEventPractice.UserControls.CustomUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CustomEventPractice.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+        <Border Name="brdOutline" Grid.ColumnSpan="3" BorderThickness="7" BorderBrush="LightGreen" Panel.ZIndex="2" CornerRadius="15"/>
+        <TextBlock Name="tbSafeCheck"  Grid.Column="2" FontSize="30" Text="Safe" Foreground="LightGreen" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" BorderThickness="0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize = "30" Foreground="Gray" 
+                 TextChanged="TextBox_TextChanged" Background="White" />
+    </Grid>
+</UserControl>
