@@ -1,0 +1,22 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\bin\Debug\net5.0-windows\WPF Tutorial.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\bin\Debug\net5.0-windows\WPF Tutorial.deps.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\bin\Debug\net5.0-windows\WPF Tutorial.runtimeconfig.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\bin\Debug\net5.0-windows\WPF Tutorial.runtimeconfig.dev.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\bin\Debug\net5.0-windows\WPF Tutorial.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\bin\Debug\net5.0-windows\ref\WPF Tutorial.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\bin\Debug\net5.0-windows\WPF Tutorial.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial_MarkupCompile.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial_MarkupCompile.lref
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial.g.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial.AssemblyInfoInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial.AssemblyInfo.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\ref\WPF Tutorial.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\WPF Tutorial\obj\Debug\net5.0-windows\WPF Tutorial.genruntimeconfig.cache

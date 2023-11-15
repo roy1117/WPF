@@ -1,0 +1,22 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\bin\Debug\net5.0-windows\Responsive Layouts.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\bin\Debug\net5.0-windows\Responsive Layouts.deps.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\bin\Debug\net5.0-windows\Responsive Layouts.runtimeconfig.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\bin\Debug\net5.0-windows\Responsive Layouts.runtimeconfig.dev.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\bin\Debug\net5.0-windows\Responsive Layouts.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\bin\Debug\net5.0-windows\ref\Responsive Layouts.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\bin\Debug\net5.0-windows\Responsive Layouts.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts_MarkupCompile.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts_MarkupCompile.lref
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts.g.resources
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts.AssemblyInfoInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts.AssemblyInfo.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\ref\Responsive Layouts.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\WPF\Responsive Layouts\obj\Debug\net5.0-windows\Responsive Layouts.genruntimeconfig.cache

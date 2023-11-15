@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Responsive Layouts/1.0.0": {
+        "runtime": {
+          "Responsive Layouts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Responsive Layouts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

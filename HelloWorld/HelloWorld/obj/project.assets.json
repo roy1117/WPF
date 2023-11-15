@@ -1,38 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net5.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\taehy\\.nuget\\packages\\": {}
+    "C:\\Users\\a00533064\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taehy\\Desktop\\Code\\WPF\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\a00533064\\Desktop\\DotNet\\DotNet\\WPF\\HelloWorld\\HelloWorld\\HelloWorld.vbproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\taehy\\Desktop\\Code\\WPF\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\taehy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taehy\\Desktop\\Code\\WPF\\HelloWorld\\HelloWorld\\obj\\",
+      "projectPath": "C:\\Users\\a00533064\\Desktop\\DotNet\\DotNet\\WPF\\HelloWorld\\HelloWorld\\HelloWorld.vbproj",
+      "packagesPath": "C:\\Users\\a00533064\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a00533064\\Desktop\\DotNet\\DotNet\\WPF\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\taehy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\a00533064\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net5.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net6.0-windows7.0": {
-        "targetAlias": "net6.0-windows",
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
