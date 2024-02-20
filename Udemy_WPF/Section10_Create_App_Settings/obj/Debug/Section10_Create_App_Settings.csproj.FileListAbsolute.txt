@@ -1,0 +1,16 @@
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\bin\Debug\Section10_Create_App_Settings.exe.config
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\bin\Debug\Section10_Create_App_Settings.exe
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\bin\Debug\Section10_Create_App_Settings.pdb
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings.csproj.AssemblyReference.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings.csproj.SuggestedBindingRedirects.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\MainWindow.g.cs
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\App.g.cs
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings_MarkupCompile.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings_MarkupCompile.lref
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\MainWindow.baml
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings.g.resources
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings.Properties.Resources.resources
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings.csproj.GenerateResource.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings.csproj.CoreCompileInputs.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings.exe
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section10_Create_App_Settings\obj\Debug\Section10_Create_App_Settings.pdb

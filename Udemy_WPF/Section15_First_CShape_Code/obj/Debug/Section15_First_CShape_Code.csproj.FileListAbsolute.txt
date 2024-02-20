@@ -1,0 +1,16 @@
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\bin\Debug\Section15_First_CShape_Code.exe.config
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\bin\Debug\Section15_First_CShape_Code.exe
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\bin\Debug\Section15_First_CShape_Code.pdb
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code.csproj.AssemblyReference.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code.csproj.SuggestedBindingRedirects.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\MainWindow.g.cs
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\App.g.cs
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code_MarkupCompile.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code_MarkupCompile.lref
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\MainWindow.baml
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code.g.resources
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code.Properties.Resources.resources
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code.csproj.GenerateResource.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code.csproj.CoreCompileInputs.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code.exe
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section15_First_CShape_Code\obj\Debug\Section15_First_CShape_Code.pdb

@@ -1,0 +1,16 @@
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\bin\Debug\Section5_First_WPF_Project.exe.config
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\bin\Debug\Section5_First_WPF_Project.exe
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\bin\Debug\Section5_First_WPF_Project.pdb
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project.csproj.AssemblyReference.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\MainWindow.g.cs
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\App.g.cs
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project_MarkupCompile.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project_MarkupCompile.lref
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\MainWindow.baml
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project.g.resources
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project.Properties.Resources.resources
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project.csproj.GenerateResource.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project.csproj.CoreCompileInputs.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project.exe
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Section5_First_WPF_Project\obj\Debug\Section5_First_WPF_Project.pdb

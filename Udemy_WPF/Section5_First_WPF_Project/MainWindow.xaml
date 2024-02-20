@@ -1,0 +1,15 @@
+﻿<Window x:Name="MyWindow" x:Class="Section5_First_WPF_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Section5_First_WPF_Project"
+        mc:Ignorable="d"
+        Title="First Window 1" Height="300" Width="498" FontWeight="Bold" Background="#FC00009A">
+    <Grid>
+        <Button Content="Hi" HorizontalAlignment="Left" Margin="1,19,0,0" VerticalAlignment="Top" Height="74" Width="124" Click="Button_Click" Foreground="#FFF3B410" Background="#FFFC0303" FontSize="30"/>
+        <Button x:Name="Button1_Copy" Content="hi" HorizontalAlignment="Left" Margin="155,120,0,0" VerticalAlignment="Top" Height="74" Width="124" Click="Button_Click"/>
+        <Button x:Name="Button1_Copy1" Content="hi" HorizontalAlignment="Left" Margin="3,120,0,0" VerticalAlignment="Top" Height="74" Width="123" Click="Button_Click"/>
+        <Button x:Name="Button1_Copy2" Content="hi" HorizontalAlignment="Left" Margin="155,19,0,0" VerticalAlignment="Top" Height="74" Width="122" Click="Button_Click" />
+    </Grid>
+</Window>
