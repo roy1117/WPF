@@ -1,0 +1,16 @@
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged.csproj.AssemblyReference.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged.csproj.SuggestedBindingRedirects.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\App.g.cs
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged_MarkupCompile.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged_MarkupCompile.lref
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\bin\Debug\Practice_INotifyPropertyChanged.exe.config
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\bin\Debug\Practice_INotifyPropertyChanged.exe
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\bin\Debug\Practice_INotifyPropertyChanged.pdb
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\MainWindow.baml
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged.g.resources
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged.Properties.Resources.resources
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged.csproj.GenerateResource.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged.exe
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\Practice_INotifyPropertyChanged\obj\Debug\Practice_INotifyPropertyChanged.pdb

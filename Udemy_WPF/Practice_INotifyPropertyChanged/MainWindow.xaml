@@ -1,0 +1,19 @@
+﻿<Window x:Class="Practice_INotifyPropertyChanged.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practice_INotifyPropertyChanged"
+        xmlns:model="clr-namespace:Model"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="280" Width="285">
+    <Grid>
+        <Label Content="First Name : " HorizontalAlignment="Left" Margin="6,24,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.693,1.157"/>
+        <Label Content="Last Name : " HorizontalAlignment="Left" Margin="6,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.693,1.157"/>
+        <Label Content="Full Name : " HorizontalAlignment="Left" Margin="10,148,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.693,1.157"/>
+        <TextBox HorizontalAlignment="Left" Height="19" Margin="90,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" Text="{Binding Firstname}"/>
+        <TextBox HorizontalAlignment="Left" Height="19" Margin="90,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" Text="{Binding Lastname}"/>
+        <TextBox HorizontalAlignment="Left" Height="19" Margin="90,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" IsReadOnly="True" Text="{Binding Fullname}"/>
+
+    </Grid>
+</Window>

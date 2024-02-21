@@ -1,0 +1,15 @@
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\bin\Debug\net6.0\URI_Practice.exe
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\bin\Debug\net6.0\URI_Practice.deps.json
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\bin\Debug\net6.0\URI_Practice.runtimeconfig.json
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\bin\Debug\net6.0\URI_Practice.dll
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\bin\Debug\net6.0\URI_Practice.pdb
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\URI_Practice.csproj.AssemblyReference.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\URI_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\URI_Practice.AssemblyInfoInputs.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\URI_Practice.AssemblyInfo.cs
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\URI_Practice.csproj.CoreCompileInputs.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\URI_Practice.dll
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\refint\URI_Practice.dll
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\URI_Practice.pdb
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\URI_Practice.genruntimeconfig.cache
+C:\Users\taehy\Desktop\Code\WPF\Udemy_WPF\URI_Practice\obj\Debug\net6.0\ref\URI_Practice.dll
